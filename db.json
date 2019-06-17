@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  'id': 364758328,
+  'name': 'conference1234',
+  'mail_owner': 'user@server.com',
+  'start_time': '2048-04-20T17:55:12.000Z',
+  'duration': 900000
 }
