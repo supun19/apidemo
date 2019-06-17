@@ -1,6 +1,6 @@
 {
-  "id": "364758328",
+  "conference":{"id": "364758328",
   "name": "conference1234",
   "start_time": "2048-04-20T17:55:12.000Z",
-  "duration": "900000"
+  "duration": "900000"}
 }
